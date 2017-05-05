@@ -1,0 +1,18 @@
+body, ul {
+  margin: 0px;
+}
+ol, ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+* {
+  Box-sizing: Border-box
+}
+.clear {
+  clear: both;
+}
